@@ -1,4 +1,4 @@
-* { color: #ffb6c1;
+p { color: #ffb6c1;
     font-family: Verdana, DejaVu, sans-serif ;
 }
 
@@ -6,7 +6,7 @@
     font-size: 36px;
 }
 
-.num3 {
+p.num3 {
     font-size: 24px;
 }
 
